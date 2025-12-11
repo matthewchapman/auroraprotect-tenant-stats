@@ -8,7 +8,7 @@
     "Tenant2": {
       "app_id": "<APPID>",
       "app_secret": "<APPSECRET>",
-      "tenant_id": "6a7e9c4a-ad99-449b-af5e-7a7fdad05d9d",
+      "tenant_id": "<TENANTID>",
       "region": "https://protectapi.cylance.com"
     },
     "Tenant3": {
