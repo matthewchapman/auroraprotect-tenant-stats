@@ -1,4 +1,5 @@
-# auroraprotect-tenant-stats
+Summary
+
 Python GUI to allow selecting tenants via Arctic Wolf Aurora Tenant API and retrieve stats.
 
 First create the proper APP Secret and APP ID in your Aurora Protect console.
